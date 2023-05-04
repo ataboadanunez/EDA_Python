@@ -1,5 +1,4 @@
 # EDA_Python
-Exploratory Data Analysis with Python
 
-Example of how to perform Exploratory Data Analysis with Python
-credits to Rob Mulla
+Example of how to perform Exploratory Data Analysis with Python\
+Extracted from [Rob Mulla's](https://www.kaggle.com/code/robikscube/introduction-to-exploratory-data-analysis/notebook) notebook.
